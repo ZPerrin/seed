@@ -1,0 +1,12 @@
+{
+  "name": "myAppName",
+  "version": "0.0.1",
+  "description": "skeleton express/node/angular application",
+  "main": "web-server.js",
+  "author": "Zebulon Perrin",
+  "dependencies": {
+    "express": "3.4.x",
+    "consolidate": "*",
+    "swig": "~1.3.2"
+  }
+}
