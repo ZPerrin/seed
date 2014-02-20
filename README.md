@@ -14,14 +14,15 @@ The more I learn the more I will adobt the various popular technologies (like gr
 
 ## Quick Startup
   Simply install the npm and bower dependancies:
-  
+  ```
   $ npm install
+  ```
   ```
   $ bower install
   ```
   
   Then start the server:
-  
+  ```
   $ node web-server.js
-  
+  ```
   Finally navigate to http://localhost:3000 
